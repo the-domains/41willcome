@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: God is with you.
-datePublished: '2016-04-13T17:07:58.579Z'
-dateModified: '2016-04-13T17:06:30.303Z'
+datePublished: '2016-04-13T17:36:01.219Z'
+dateModified: '2016-04-13T17:19:50.685Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-god-is-with-you.md
@@ -22,7 +22,7 @@ url: god-is-with-you/index.html
 _type: Article
 
 ---
-_God is with you._
+God is with you.
 
 Your story is not over.
 
