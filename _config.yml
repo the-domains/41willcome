@@ -1,0 +1,28 @@
+name: 41willcome
+favicon: null
+layout_spectrum: 0.322777813533321
+typography_spectrum: 0.651748145930469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8419731345493346
+  lightness: 0.8032264558132738
+  saturation: 0.33613425260409713
+  rhythmicContrast: 0.4755008730571717
+purpose: []
