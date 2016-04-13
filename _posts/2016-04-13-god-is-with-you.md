@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: God is with you.
-datePublished: '2016-04-13T17:39:02.220Z'
-dateModified: '2016-04-13T17:38:27.321Z'
+datePublished: '2016-04-13T17:39:57.110Z'
+dateModified: '2016-04-13T17:39:06.795Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-god-is-with-you.md
