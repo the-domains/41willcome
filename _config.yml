@@ -1,6 +1,6 @@
 name: 41willcome
 favicon: null
-layout_spectrum: 0.7529
+layout_spectrum: 0.2575
 typography_spectrum: 0.75049
 title: 41 Will Come
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fbfbfb'
     - '#575300'
     - '#ada618'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.125
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
