@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: God is with you.
-datePublished: '2016-04-27T05:30:24.714Z'
-dateModified: '2016-04-27T05:28:48.297Z'
+datePublished: '2016-04-27T05:51:04.129Z'
+dateModified: '2016-04-27T05:50:49.989Z'
 title: ''
 author: []
 authors: []
@@ -22,8 +22,6 @@ url: god-is-with-you/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca78c76e-d370-43d0-8d7b-79c5981b0db4.jpg)
-
 God is with you.
 
 Your story is not over.
